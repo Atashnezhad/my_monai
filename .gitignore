@@ -2,3 +2,7 @@
 .idea/
 /3d_data.json
 *.json*.html
+/3d_data_downsampled.json
+/image_processing1.ipynb
+/test.html
+/vid40.ipynb
